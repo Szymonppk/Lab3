@@ -1,4 +1,5 @@
 # Lab_3
 Lab 3 repository
-![image](https://github.com/user-attachments/assets/03d3e7af-d86b-409b-a2f0-b0b3fc4e91de)
+![image](https://github.com/user-attachments/assets/e0472bb7-c85a-44b3-9dd8-92cc17385408)
+
 
